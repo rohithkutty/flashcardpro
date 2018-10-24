@@ -1,0 +1,94 @@
+[
+  {
+    "title": "State Abbrevations",
+    "id": 0,
+    "cards": [
+      {
+        "id": 0,
+        "prompt": "Arizona",
+        "answer": "AR"
+      },
+      {
+        "id": 1,
+        "prompt": "California",
+        "answer": "CA"
+      },
+      {
+        "id": 2,
+        "prompt": "Huawai",
+        "answer": "HI"
+      },
+      {
+        "id": 3,
+        "prompt": "Kansas",
+        "answer": "KS"
+      },
+      {
+        "id": 4,
+        "prompt": "Texas",
+        "answer": "TX"
+      },
+      {
+        "id": 5,
+        "prompt": "Maryland",
+        "answer": "MD"
+      },
+      {
+        "id": 6,
+        "prompt": "New york",
+        "answer": "NY"
+      },
+      {
+        "id": 7,
+        "prompt": "WashingTon",
+        "answer": "WA"
+      }
+    ]
+  },
+  {
+    "title": "State Capitals",
+    "id": 1,
+    "cards": [
+      {
+        "id": 0,
+        "prompt": "Arizona",
+        "answer": "AR"
+      },
+      {
+        "id": 1,
+        "prompt": "California",
+        "answer": "CA"
+      },
+      {
+        "id": 2,
+        "prompt": "Huawai",
+        "answer": "HI"
+      },
+      {
+        "id": 3,
+        "prompt": "Kansas",
+        "answer": "KS"
+      },
+      {
+        "id": 4,
+        "prompt": "Texas",
+        "answer": "TX"
+      },
+      {
+        "id": 5,
+        "prompt": "Maryland",
+        "answer": "MD"
+      },
+      {
+        "id": 6,
+        "prompt": "New york",
+        "answer": "NY"
+      },
+      {
+        "id": 7,
+        "prompt": "WashingTon",
+        "answer": "WA"
+      }
+    ]
+  }
+]
