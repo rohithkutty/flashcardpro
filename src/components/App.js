@@ -6,6 +6,7 @@ export default class App extends Component {
     return (
       <div>
         <h1>Flash card pro</h1>
+        <hr />
         <StackList />
       </div>
     );
