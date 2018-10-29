@@ -10,7 +10,7 @@ import {
 } from "react-bootstrap";
 import { addStack } from "../actions";
 
-class StackForm extends Component {
+export class StackForm extends Component {
   constructor() {
     super();
 
@@ -84,7 +84,7 @@ class StackForm extends Component {
         <br />
         <Button onClick={() => this.addCard()}>Add Card</Button>
         <br />
-        <Button onClick={() => this.addStack()}>Save &nbsp; Add Stack</Button>
+        <Button onClick={() => this.addStack()}>Save and Add Stack</Button>
       </div>
     );
   }
